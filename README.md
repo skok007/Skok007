@@ -39,7 +39,7 @@ Expect minimal fluff, sharp edges, and applied projects that sit at the intersec
 ## 📂 Featured Projects
 
 ### 🔋 EV Charger Location Optimizer  
-[![Preview](https://raw.githubusercontent.com/skok007/assets/main/ev-preview.png)](https://github.com/skok007/EV_Charger_Optys)  
+(https://github.com/skok007/EV_Charger_Optys)  
 Geospatial clustering and dashboard for identifying underserved EV areas.  
 ![Last Commit](https://img.shields.io/github/last-commit/skok007/EV_Charger_Optys)
 ![Languages](https://img.shields.io/github/languages/top/skok007/EV_Charger_Optys)
@@ -47,7 +47,7 @@ Geospatial clustering and dashboard for identifying underserved EV areas.
 ---
 
 ### 🧠 RAG + MLOps with AWS  
-[![Preview](https://raw.githubusercontent.com/skok007/assets/main/rag-preview.png)](https://github.com/skok007/MLOPs_with_AWS)  
+(https://github.com/skok007/MLOPs_with_AWS)  
 Deployable RAG pipeline using LangChain + S3 + ECS + CLI agent control.  
 ![Last Commit](https://img.shields.io/github/last-commit/skok007/MLOPs_with_AWS)
 ![Languages](https://img.shields.io/github/languages/top/skok007/MLOPs_with_AWS)
@@ -55,7 +55,7 @@ Deployable RAG pipeline using LangChain + S3 + ECS + CLI agent control.
 ---
 
 ### 🎨 Mandelbrot Explorer  
-[![Preview](https://raw.githubusercontent.com/skok007/assets/main/mandelbrot-preview.png)](https://github.com/skok007/Mandelbrot-set-explorer)  
+(https://github.com/skok007/Mandelbrot-set-explorer)  
 Simple WebGL Mandelbrot visualizer deployed on Vercel.  
 ![Last Commit](https://img.shields.io/github/last-commit/skok007/Mandelbrot-set-explorer)
 
