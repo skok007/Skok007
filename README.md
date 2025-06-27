@@ -1,15 +1,16 @@
 # 👋 Hi, I'm Steven Kok
 
-**Partner & Associate Director @ BCG** | Strategy Meets Code  
+**Partner & Associate Director @ BCG** | 
+
 Exploring the frontier where business strategy and advanced technology intersect.
 
-Welcome to my GitHub lab — where strategic experimentation meets functional code.  
+Welcome to my GitHub lab.  
 Expect minimal fluff, sharp edges, and applied projects that sit at the intersection of LLMs, enterprise tooling, and real-world use.
 
 ---
 
 ## 🚀 What You'll Find Here
-
+Repositories that i have used to learn. examples of these are
 - 🧠 **AI Agents & LLM Apps** — with RAG, embeddings, function calling
 - 🧪 **Experiments** — LLM pipelines, vectorstores, minimal viable AI
 - 🔧 **Boilerplates** — DevContainers, Stripe, CICD, CLI tools
