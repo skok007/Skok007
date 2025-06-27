@@ -50,11 +50,6 @@ Deployable RAG pipeline using LangChain + S3 + ECS + CLI agent control.
 ![Last Commit](https://img.shields.io/github/last-commit/skok007/MLOPs_with_AWS)
 ![Languages](https://img.shields.io/github/languages/top/skok007/MLOPs_with_AWS)
 
----
-
-### [🎨 Mandelbrot Explorer](https://github.com/skok007/Mandelbrot-set-explorer)  
-Simple WebGL Mandelbrot visualizer deployed on Vercel.  
-![Last Commit](https://img.shields.io/github/last-commit/skok007/Mandelbrot-set-explorer)
 
 ---
 
@@ -71,7 +66,6 @@ Simple WebGL Mandelbrot visualizer deployed on Vercel.
 ---
 
 ### ⚙️ MLOps & Deployment Projects
-- [MLOps Loan Classifier with GitHub CICD](https://github.com/Harry4007/MLOps)
 - [Full-stack ML Deployment (sermengi)](https://github.com/sermengi/MLOps-project)
 - [RAG Langflow App (PREMRAJESH)](https://github.com/PREMRAJESH/RAG)
 
