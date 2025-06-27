@@ -1,5 +1,3 @@
-![Banner](https://raw.githubusercontent.com/skok007/assets/main/profile-banner.png)
-
 # 👋 Hi, I'm Steven Kok
 
 **Partner & Associate Director @ BCG** | Strategy Meets Code  
